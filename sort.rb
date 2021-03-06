@@ -1,3 +1,5 @@
+#ソートアルゴリズムの作成
+
 def Sort(array)
   i = 0
   while i < array.length
